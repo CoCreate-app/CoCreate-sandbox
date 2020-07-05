@@ -1,0 +1,19 @@
+{
+  "name": "cocreate-pen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoCreate-app/CoCreate-pen.git"
+  },
+  "author": "Frnak Pagan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CoCreate-app/CoCreate-pen/issues"
+  },
+  "homepage": "https://github.com/CoCreate-app/CoCreate-pen#readme"
+}
