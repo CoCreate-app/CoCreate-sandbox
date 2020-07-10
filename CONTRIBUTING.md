@@ -1,8 +1,8 @@
 # Contributing to CoCreate-sandbox
 
-This project is work of [many contributors](https://github.com/CoCreate-app/CoCreate-pen/graphs/contributors).
-You're encouraged to submit [pull requests](https://github.com/CoCreate-app/CoCreate-pen/pulls),
-[propose features and discuss issues](https://github.com/CoCreate-app/CoCreate-pen/issues).
+This project is work of [many contributors](https://github.com/CoCreate-app/CoCreate-sandbox/graphs/contributors).
+You're encouraged to submit [pull requests](https://github.com/CoCreate-app/CoCreate-sandbox/pulls),
+[propose features and discuss issues](https://github.com/CoCreate-app/CoCreate-sandbox/issues).
 
 In the examples below, substitute your Github username for `contributor` in URLs.
 
@@ -70,7 +70,7 @@ git push origin my-feature-branch
 
 ## Make a Pull Request
 
-Go to [https://github.com/CoCreate-app/CoCreate-pen](https://github.com/CoCreate-app/CoCreate-pen) and select your feature branch.
+Go to [https://github.com/CoCreate-app/CoCreate-sandbox](https://github.com/CoCreate-app/CoCreate-sandbox) and select your feature branch.
 Click the 'Pull Request' button and fill out the form. Pull requests are usually reviewed within a few days.
 
 ## Rebase
@@ -88,7 +88,7 @@ git push origin my-feature-branch -f
 Update the [CHANGELOG](CHANGELOG.md) with the pull request number. A typical entry looks as follows.
 
 ```
-* [#123](https://github.com/CoCreate-app/CoCreate-pen/pull/123): Reticulated splines - [@contributor](https://github.com/contributor).
+* [#123](https://github.com/CoCreate-app/CoCreate-sandbox/pull/123): Reticulated splines - [@contributor](https://github.com/contributor).
 ```
 
 Amend your previous commit and force push the changes.
