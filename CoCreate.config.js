@@ -9,7 +9,7 @@ module.exports = {
     sources: [{
             path: "./docs/index.html",
             collection: "files",
-            document_id: "",
+            document_id: "6025f32c7a78a543a77c921e",
             key: "html",
             data:{
                 name: "Sandbox Doc",
@@ -19,10 +19,10 @@ module.exports = {
    
     crud: [{
             collection: "routes",
-            document_id: "",
+            document_id: "6025f32c7a78a543a77c921d",
             data:{
                 collection: "files",
-                document_id: "",
+                document_id: "6025f32c7a78a543a77c921e",
                 name: "html",
                 domains: ["cocreate.app", "server.cocreate.app", "ws.cocreate.app"],
                 route: "/docs/sandbox",
