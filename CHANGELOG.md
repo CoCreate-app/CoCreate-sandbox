@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.0.0...v1.0.1) (2021-04-23)
+
+
+### Bug Fixes
+
+* readme and documentation. Removed securitykeys ([01a0182](https://github.com/CoCreate-app/CoCreate-sandbox/commit/01a0182e2bf36f1a6e9dce63ca6556b457f484d2))
+
 # 1.0.0 (2021-04-19)
 
 
