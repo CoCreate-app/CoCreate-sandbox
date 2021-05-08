@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.0.3...v1.0.4) (2021-05-08)
+
+
+### Bug Fixes
+
+* add css auto parse and save to docs. ([706a82a](https://github.com/CoCreate-app/CoCreate-sandbox/commit/706a82a8d732b7a6fdfff72e288b1f63ea558e28))
+
 ## [1.0.3](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.0.2...v1.0.3) (2021-04-27)
 
 
