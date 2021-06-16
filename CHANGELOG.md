@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.0.4...v1.0.5) (2021-06-16)
+
+
+### Bug Fixes
+
+* added header for seo ([a1303ef](https://github.com/CoCreate-app/CoCreate-sandbox/commit/a1303ef4f558da86f3441fe9473af15ac731e5ad))
+
 ## [1.0.4](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.0.3...v1.0.4) (2021-05-08)
 
 
