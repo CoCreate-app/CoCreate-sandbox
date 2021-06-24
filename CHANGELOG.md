@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.0.5...v1.0.6) (2021-06-24)
+
+
+### Bug Fixes
+
+* update all [@cocreate](https://github.com/cocreate) to use latest versions ([9b69ea1](https://github.com/CoCreate-app/CoCreate-sandbox/commit/9b69ea10ce74a4f5eac1a91dc44bf30864387ec0))
+
 ## [1.0.5](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.0.4...v1.0.5) (2021-06-16)
 
 
