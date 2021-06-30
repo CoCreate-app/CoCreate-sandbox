@@ -1,3 +1,10 @@
+## [1.0.9](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.0.8...v1.0.9) (2021-06-30)
+
+
+### Bug Fixes
+
+* automated and manual workflows ([273773f](https://github.com/CoCreate-app/CoCreate-sandbox/commit/273773fea27c31bd18f4dac1083d0f32b8a95769))
+
 ## [1.0.8](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.0.7...v1.0.8) (2021-06-25)
 
 
