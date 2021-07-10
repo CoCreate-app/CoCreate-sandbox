@@ -1,6 +1,6 @@
 {
   "name": "@cocreate/sandbox",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "A simple sandbox component in vanilla javascript. Easily configured using HTML5 data-attributes and/or JavaScript API.",
   "keywords": [
     "sandbox",
@@ -35,7 +35,9 @@
   },
   "author": "CoCreate LLC",
   "license": "MIT",
-  "bugs": { "url": "https://github.com/CoCreate-app/CoCreate-sandbox/issues" },
+  "bugs": {
+    "url": "https://github.com/CoCreate-app/CoCreate-sandbox/issues"
+  },
   "homepage": "https://cocreate.app/docs/sandbox",
   "funding": {
     "type": "GitHub Sponsors ❤",

@@ -1,3 +1,10 @@
+## [1.0.11](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.0.10...v1.0.11) (2021-07-10)
+
+
+### Bug Fixes
+
+* gitignore all logs ([0e8987f](https://github.com/CoCreate-app/CoCreate-sandbox/commit/0e8987f22191bd230abe9593489366d4306c314b))
+
 ## [1.0.10](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.0.9...v1.0.10) (2021-06-30)
 
 
