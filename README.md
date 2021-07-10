@@ -2,10 +2,12 @@
 
 A simple sandbox component in vanilla javascript. Easily configured using HTML5 data-attributes and/or JavaScript API. Take it for a spin in our [playground!](https://cocreate.app/docs/sandbox)
 
-![GitHub file size in bytes](https://img.shields.io/github/size/CoCreate-app/CoCreate-sandbox/dist/CoCreate-sandbox.min.js?label=minified%20size&style=for-the-badge)
-![GitHub latest release](https://img.shields.io/github/v/release/CoCreate-app/CoCreate-sandbox?style=for-the-badge)
-![GitHub](https://img.shields.io/github/license/CoCreate-app/CoCreate-sandbox?style=for-the-badge)
-![GitHub labels](https://img.shields.io/github/labels/CoCreate-app/CoCreate-sandbox/help%20wanted?style=for-the-badge)
+![minified](https://img.badgesize.io/https://cdn.cocreate.app/sandbox/latest/CoCreate-sandbox.min.js?style=flat-square&label=minified&color=orange)
+![gzip](https://img.badgesize.io/https://cdn.cocreate.app/sandbox/latest/CoCreate-sandbox.min.js?compression=gzip&style=flat-square&label=gzip&color=yellow)
+![brotli](https://img.badgesize.io/https://cdn.cocreate.app/sandbox/latest/CoCreate-sandbox.min.js?compression=brotli&style=flat-square&label=brotli)
+![GitHub latest release](https://img.shields.io/github/v/release/CoCreate-app/CoCreate-sandbox?style=flat-square)
+![License](https://img.shields.io/github/license/CoCreate-app/CoCreate-sandbox?style=flat-square)
+![Hiring](https://img.shields.io/static/v1?style=flat-square&label=&message=Hiring&color=blueviolet)
 
 ![CoCreate-sandbox](https://cdn.cocreate.app/docs/CoCreate-sandbox.gif)
 
@@ -26,7 +28,13 @@ For a complete guide and working demo refer to the [doumentation](https://cocrea
 ## NPM
 
 ```shell
-$ npm install @cocreate/sandbox
+$ npm i @cocreate/sandbox
+```
+
+## yarn
+
+```shell
+$ yarn install @cocreate/sandbox
 ```
 
 # Table of Contents
