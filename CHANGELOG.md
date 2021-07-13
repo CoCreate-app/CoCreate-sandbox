@@ -1,3 +1,11 @@
+## [1.0.12](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.0.11...v1.0.12) (2021-07-13)
+
+
+### Bug Fixes
+
+* add yarn lockfile to git ignore ([bd3e2b5](https://github.com/CoCreate-app/CoCreate-sandbox/commit/bd3e2b589861071444c3f8b6cfda394dbeb4411c))
+* remove yarn.lock ([fbffbb4](https://github.com/CoCreate-app/CoCreate-sandbox/commit/fbffbb4fc5d84cff8f38cbaaf26f7d6f0913ba89))
+
 ## [1.0.11](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.0.10...v1.0.11) (2021-07-10)
 
 
