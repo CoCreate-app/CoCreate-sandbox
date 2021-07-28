@@ -1,7 +1,7 @@
 (function(){
 
   var param = 'data-onchange'
-  var elements = document.querySelectorAll('iframe[data-collection][data-document_id]')
+  var elements = document.querySelectorAll('iframe[collection][document_id]')
   // elements.forEach(element=>{
   //   let dataset = Object.assign({}, element.dataset);
   //   let name = element.getAttribute('name') || '';
@@ -22,7 +22,7 @@
   //   let collection = data["collection"] || '';
   //   let document_id = data["document_id"] || '';
   //   if(document_id != '' && collection != ''){
-  //     var elements = document.querySelectorAll('iframe[data-collection = "'+collection+'"][data-document_id = "'+document_id+'"]')
+  //     var elements = document.querySelectorAll('iframe[collection = "'+collection+'"][document_id = "'+document_id+'"]')
   //     if(elements){
   //         elements.forEach(element=>{
   //           if(update){
