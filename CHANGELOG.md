@@ -1,3 +1,15 @@
+# [1.1.0](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.0.15...v1.1.0) (2021-07-28)
+
+
+### Bug Fixes
+
+* remove data- from fetch, pass and filter ([0d9f1bc](https://github.com/CoCreate-app/CoCreate-sandbox/commit/0d9f1bc4fc25eecafd8462ae902d9db352246174))
+
+
+### Features
+
+* add new is{attribute} system and remove data- from attributtes ([e89753e](https://github.com/CoCreate-app/CoCreate-sandbox/commit/e89753e08ad7f783a37bffe4353ab5c6c84c99b9))
+
 ## [1.0.15](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.0.14...v1.0.15) (2021-07-17)
 
 
