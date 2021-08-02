@@ -1,3 +1,11 @@
+## [1.1.1](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.1.0...v1.1.1) (2021-08-02)
+
+
+### Bug Fixes
+
+* remove data- from attributes ([18c08ce](https://github.com/CoCreate-app/CoCreate-sandbox/commit/18c08ceaba80e1e4bbada2ca8a7c9c9e0b55c16d))
+* update data-fullscreen to fullscreen ([e57ed46](https://github.com/CoCreate-app/CoCreate-sandbox/commit/e57ed4650b8ab15c12a1a2dab55536dda3d39138))
+
 # [1.1.0](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.0.15...v1.1.0) (2021-07-28)
 
 
