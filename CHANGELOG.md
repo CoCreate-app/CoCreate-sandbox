@@ -1,3 +1,10 @@
+## [1.1.5](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.1.4...v1.1.5) (2021-08-22)
+
+
+### Bug Fixes
+
+* removed data- from main-content, clone, filter-value_type ([4842b7b](https://github.com/CoCreate-app/CoCreate-sandbox/commit/4842b7b8853237224c5cbdf29122cee70a032730))
+
 ## [1.1.4](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.1.3...v1.1.4) (2021-08-22)
 
 
