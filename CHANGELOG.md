@@ -1,3 +1,10 @@
+## [1.1.17](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.1.16...v1.1.17) (2021-09-14)
+
+
+### Bug Fixes
+
+* add cocreate.app to domains ([88e794c](https://github.com/CoCreate-app/CoCreate-sandbox/commit/88e794c17564a48343654d0ec8042ceb84f564a9))
+
 ## [1.1.16](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.1.15...v1.1.16) (2021-09-13)
 
 
