@@ -1,3 +1,11 @@
+## [1.1.24](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.1.23...v1.1.24) (2021-10-05)
+
+
+### Bug Fixes
+
+* update dependencies ([5a1af62](https://github.com/CoCreate-app/CoCreate-sandbox/commit/5a1af62f62d4d06383c391ffb7a545ab92c2d19b))
+* website_id in CoCreate.config ([788c535](https://github.com/CoCreate-app/CoCreate-sandbox/commit/788c5352fab815c25f0b58e850dd1fcf002bf706))
+
 ## [1.1.23](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.1.22...v1.1.23) (2021-10-04)
 
 
