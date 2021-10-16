@@ -1,3 +1,10 @@
+## [1.1.31](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.1.30...v1.1.31) (2021-10-16)
+
+
+### Bug Fixes
+
+* update socket package to fix bug in docs ([e5812b7](https://github.com/CoCreate-app/CoCreate-sandbox/commit/e5812b76b607294a3c3daec71bd22a1d0ba4d663))
+
 ## [1.1.30](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.1.29...v1.1.30) (2021-10-15)
 
 
