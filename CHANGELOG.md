@@ -1,3 +1,10 @@
+## [1.1.37](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.1.36...v1.1.37) (2021-11-06)
+
+
+### Bug Fixes
+
+* removed cdn from workflows as modules dont have javascript and are built using existing componennts ([ffbbb7b](https://github.com/CoCreate-app/CoCreate-sandbox/commit/ffbbb7b64ef227b5acb8e594cf6cb5fe4d09d72b))
+
 ## [1.1.36](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.1.35...v1.1.36) (2021-11-04)
 
 
