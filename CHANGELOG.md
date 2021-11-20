@@ -1,3 +1,10 @@
+## [1.1.45](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.1.44...v1.1.45) (2021-11-20)
+
+
+### Bug Fixes
+
+* updated script tags and link tags ([d92e370](https://github.com/CoCreate-app/CoCreate-sandbox/commit/d92e37059dea289e9e262434a7a33a19e58e4c0d))
+
 ## [1.1.44](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.1.43...v1.1.44) (2021-11-20)
 
 
