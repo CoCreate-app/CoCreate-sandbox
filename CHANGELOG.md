@@ -1,3 +1,10 @@
+## [1.1.49](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.1.48...v1.1.49) (2021-11-27)
+
+
+### Bug Fixes
+
+* update docs api and cocreateJS script ([0fe4dea](https://github.com/CoCreate-app/CoCreate-sandbox/commit/0fe4dead9c66dea1af2fda9bc5493c64eb3c3918))
+
 ## [1.1.48](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.1.47...v1.1.48) (2021-11-26)
 
 
