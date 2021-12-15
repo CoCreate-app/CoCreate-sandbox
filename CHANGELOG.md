@@ -1,3 +1,10 @@
+## [1.1.53](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.1.52...v1.1.53) (2021-12-15)
+
+
+### Bug Fixes
+
+* update dependencies ([6bab059](https://github.com/CoCreate-app/CoCreate-sandbox/commit/6bab0599ae4b46779bda4b3c94e6476e8d2f7c3d))
+
 ## [1.1.52](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.1.51...v1.1.52) (2021-12-14)
 
 
