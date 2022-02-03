@@ -1,3 +1,10 @@
+## [1.1.56](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.1.55...v1.1.56) (2022-02-03)
+
+
+### Bug Fixes
+
+* replaced show and hide class hidden with attribute hidden ([04f22ab](https://github.com/CoCreate-app/CoCreate-sandbox/commit/04f22ab62f0c0bccbda419d8ceceb29604083efa))
+
 ## [1.1.55](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.1.54...v1.1.55) (2022-02-01)
 
 
