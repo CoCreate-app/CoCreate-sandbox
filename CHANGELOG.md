@@ -1,3 +1,10 @@
+## [1.1.60](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.1.59...v1.1.60) (2022-02-24)
+
+
+### Bug Fixes
+
+* CoCreate.config replace CoCreate.app with * ([a328806](https://github.com/CoCreate-app/CoCreate-sandbox/commit/a3288067503d12dc77daeeab09421417d2d045a6))
+
 ## [1.1.59](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.1.58...v1.1.59) (2022-02-16)
 
 
