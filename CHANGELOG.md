@@ -1,3 +1,10 @@
+## [1.1.61](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.1.60...v1.1.61) (2022-05-06)
+
+
+### Bug Fixes
+
+* update config organization_Id to organization_id ([0e5fd4a](https://github.com/CoCreate-app/CoCreate-sandbox/commit/0e5fd4a90576592a4c8a0f521ccca1dc70248c57))
+
 ## [1.1.60](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.1.59...v1.1.60) (2022-02-24)
 
 
