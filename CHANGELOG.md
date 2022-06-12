@@ -1,3 +1,11 @@
+## [1.1.64](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.1.63...v1.1.64) (2022-06-12)
+
+
+### Bug Fixes
+
+* update dependencies ([e22e524](https://github.com/CoCreate-app/CoCreate-sandbox/commit/e22e524b7a0a4a9d92d0a92c9d3a6848042cc7ad))
+* update docs css document_id ([8cf3e8e](https://github.com/CoCreate-app/CoCreate-sandbox/commit/8cf3e8e3c10fb3b56cf0cfc08d6fd5e0c72b083f))
+
 ## [1.1.63](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.1.62...v1.1.63) (2022-05-23)
 
 
