@@ -1,3 +1,10 @@
+## [1.1.76](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.1.75...v1.1.76) (2022-11-21)
+
+
+### Bug Fixes
+
+* replaced document_id with document._id ([3e9a50f](https://github.com/CoCreate-app/CoCreate-sandbox/commit/3e9a50fe7e8758de5dbaa427856eb88651539032))
+
 ## [1.1.75](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.1.74...v1.1.75) (2022-11-21)
 
 
