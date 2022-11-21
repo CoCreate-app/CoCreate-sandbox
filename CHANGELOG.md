@@ -1,3 +1,10 @@
+## [1.1.77](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.1.76...v1.1.77) (2022-11-21)
+
+
+### Bug Fixes
+
+* @cocreate/docs bug fix ([c06343b](https://github.com/CoCreate-app/CoCreate-sandbox/commit/c06343b92b95f66b2dba0a06257ff01e9a3f8531))
+
 ## [1.1.76](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.1.75...v1.1.76) (2022-11-21)
 
 
