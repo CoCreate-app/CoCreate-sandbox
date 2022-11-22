@@ -1,3 +1,11 @@
+## [1.1.78](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.1.77...v1.1.78) (2022-11-22)
+
+
+### Bug Fixes
+
+* apply src: {{source}} to CoCreate.config ([e6b2720](https://github.com/CoCreate-app/CoCreate-sandbox/commit/e6b272055eface8db5dcb8584b47d4dee112971c))
+* workflow docs ([9352542](https://github.com/CoCreate-app/CoCreate-sandbox/commit/9352542f1165ae83a19f3144fb58ba3393d1f7e2))
+
 ## [1.1.77](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.1.76...v1.1.77) (2022-11-21)
 
 
