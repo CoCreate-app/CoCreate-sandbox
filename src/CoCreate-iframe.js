@@ -5,7 +5,7 @@
   // elements.forEach(element=>{
   //   let dataset = Object.assign({}, element.dataset);
   //   let name = element.getAttribute('name') || '';
-  //   if(name != ''){
+  //   if (name != ''){
   //       dataset["data"] = [{name:name}];
   //       switch (element.nodeName.toLowerCase()) {
   //         case 'iframe':
@@ -21,17 +21,17 @@
     
   //   let collection = data["collection"] || '';
   //   let document_id = data["document_id"] || '';
-  //   if(document_id != '' && collection != ''){
+  //   if (document_id != '' && collection != ''){
   //     var elements = document.querySelectorAll('iframe[collection = "'+collection+'"][document_id = "'+document_id+'"]')
-  //     if(elements){
+  //     if (elements){
   //         elements.forEach(element=>{
-  //           if(update){
-  //             if( element.dataset.hasOwnProperty('onchange') && element.dataset['onchange']=='false'){
+  //           if (update){
+  //             if ( element.dataset.hasOwnProperty('onchange') && element.dataset['onchange']=='false'){
   //             return false;
   //             }
   //           }
   //           let name = element.getAttribute('name') || '';
-  //           if(name != '') 
+  //           if (name != '') 
   //             switch (element.nodeName.toLowerCase()) {
   //               case 'iframe':
   //                 let  value = data.data[name];
