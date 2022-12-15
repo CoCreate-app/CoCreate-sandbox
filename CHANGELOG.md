@@ -1,3 +1,10 @@
+## [1.1.96](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.1.95...v1.1.96) (2022-12-15)
+
+
+### Bug Fixes
+
+* add missing dev dependency style-loader ([b3f0e3f](https://github.com/CoCreate-app/CoCreate-sandbox/commit/b3f0e3fe78414b387598e22ada06b966e9049438))
+
 ## [1.1.95](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.1.94...v1.1.95) (2022-12-13)
 
 
