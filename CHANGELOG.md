@@ -1,3 +1,10 @@
+## [1.1.97](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.1.96...v1.1.97) (2022-12-20)
+
+
+### Bug Fixes
+
+* bump dependencies ([82e9db2](https://github.com/CoCreate-app/CoCreate-sandbox/commit/82e9db20dec4953876bf3bc96cbefebf3ccc0140))
+
 ## [1.1.96](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.1.95...v1.1.96) (2022-12-15)
 
 
