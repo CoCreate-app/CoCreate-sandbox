@@ -1,3 +1,11 @@
+## [1.1.108](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.1.107...v1.1.108) (2023-01-05)
+
+
+### Bug Fixes
+
+* bump cdn to 1.39.4 ([4d3d815](https://github.com/CoCreate-app/CoCreate-sandbox/commit/4d3d815b9d02b47fde4a8581542f14b182d3c5bd))
+* bump dependencies ([513a191](https://github.com/CoCreate-app/CoCreate-sandbox/commit/513a191af2c15558e3a50f864ee2f8d101d89819))
+
 ## [1.1.107](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.1.106...v1.1.107) (2023-01-01)
 
 
