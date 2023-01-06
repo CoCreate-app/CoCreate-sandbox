@@ -1,3 +1,11 @@
+## [1.1.109](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.1.108...v1.1.109) (2023-01-06)
+
+
+### Bug Fixes
+
+* bump dependencies, worklow [@v3](https://github.com/v3) ([a5dd2e6](https://github.com/CoCreate-app/CoCreate-sandbox/commit/a5dd2e64323043eb76185aeb626c60ad848cd7bf))
+* edit in github btn styles ([9b4937f](https://github.com/CoCreate-app/CoCreate-sandbox/commit/9b4937f05c79b0e07c1fd1836e494d1017889447))
+
 ## [1.1.108](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.1.107...v1.1.108) (2023-01-05)
 
 
