@@ -19,38 +19,27 @@
   </head>
 
   <body>
-    <!--textarea, text, number, email, tel, url-->
-    <form collection="modules">
-      <div class="card display:flex flex-wrap-wrap border-radius-2px margin:15px">
-    
-        <div class="flex-grow-1 min-width:300px border">
-          <!--<div id="testing" class="codemirror" data-fold="3" realtime='false'></div>-->
-          <div realtime="false" collection="modules" document_id="5eefe30952c6e94c75fb5e3f" name="html" id="testing" class="codemirror flex-grow-1 min-width:300px"></div>
-          <!--<div id="testing" class="codemirror"></div>-->
-        </div>
-    
-        <iframe get-value="#testing" frameBorder="0" class="flex-grow-1 min-width:300px"></iframe>
-
-      </div>
-      
-      <!--<div class="display:flex justify-content-space-between  padding:20px">
-      
-        <div class="flex-50 width:50% border">
-          <div dtat-realtime="true" collection="modules" document_id="5de03fc7c745412976891134" name="html" id="testing" class="codemirror"></div>
-        </div>
-       
-        <div class="flex-50 border">
-          <div get-value="#testing"></div>
-        </div>
-        
-      </div>-->
-
-      
-      <button class="submitBtn position:fixed bottom:15px right:15px background:dodgerblue grow-hover round">
-        <i class="far fa-save" aria-hidden="true"></i>
-      </button>
-      
-    </form>
+						<!-- SandBox -->
+						<div class="display:flex flex-direction:column position:relative overflow:hidden card border-radius:2px width:auto height:600px margin-top:20px" id="input-playground">
+							<div id="input-demo-code" resizable class="position:relative height:50%">
+								<textarea type="code" lang="html" collection="testing" document_id="" name="input-demo" save="false" id="input-demo" nput-target=".demopreview" input-attribute="value" input-events="input, onload"  class="height:100% width:100% outline:none border:none resize:none padding:5px"></textarea>
+								<div resize="bottom" class="background:lightgrey"></div>
+							</div>
+		
+							<div id="input-demo-preview" class="position:relative overflow:auto background-color:white">
+								<div class="demopreview padding:20px"></div>
+							</div>
+							
+							<div class="font-size:20px position:absolute top:10px right:10px opacity:0.6">
+								<a class="margin-right:10px" id="input-eye" show="#input-eye-slash" hide="#input-eye, #input-demo-preview" toggle="code-height" toggle-target="#input-demo-code"><i class="far fa-eye"></i></a>
+								<a class="margin-right:10px" hidden id="input-eye-slash" show="#input-eye, #input-demo-preview" hide="#input-eye-slash" toggle="code-height" toggle-target="#input-demo-code"><i class="fas fa-eye-slash"></i></a>
+								<a class="margin-right:10px" id="input-code" show="#input-code-slash" hide="#input-code, #input-demo-code"><i class="fa fa-code"></i></a>
+								<a class="margin-right:10px" hidden id="input-code-slash" show="#input-code, #input-demo-code" hide="#input-code-slash"><i class="fas fa-code"></i></a>
+								<a class="margin-right:5px" fullscreen target="#input-playground"><i class="fas fa-expand"></i></a>
+							</div>
+		
+						</div>
+						<!-- End SandBox -->
 
 	  <script src="/apikey.js"></script>
     <script src="https://cdn.cocreate.app/latest/CoCreate.min.js" ></script>
