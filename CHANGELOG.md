@@ -1,3 +1,10 @@
+## [1.2.4](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.2.3...v1.2.4) (2023-04-11)
+
+
+### Bug Fixes
+
+* renamed domains to hosts ([97a71e9](https://github.com/CoCreate-app/CoCreate-sandbox/commit/97a71e9293447b751bdd5ed7e5084c383de886a2))
+
 ## [1.2.3](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.2.2...v1.2.3) (2023-03-30)
 
 
