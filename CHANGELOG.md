@@ -1,3 +1,11 @@
+## [1.3.3](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.3.2...v1.3.3) (2023-04-24)
+
+
+### Bug Fixes
+
+* updated worrkflows to v3 and node version 16 ([aed74a4](https://github.com/CoCreate-app/CoCreate-sandbox/commit/aed74a4b46b488b720d1d217f31327d0124107ec))
+* workflow node version updated  16 ([b328a03](https://github.com/CoCreate-app/CoCreate-sandbox/commit/b328a039c3dcfdddd3c18bc4cfcc9faa7106ae98))
+
 ## [1.3.2](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.3.1...v1.3.2) (2023-04-24)
 
 
