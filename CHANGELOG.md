@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.3.0...v1.3.1) (2023-04-24)
+
+
+### Bug Fixes
+
+* removed uglifyjs-webpack-plugin ([58bd002](https://github.com/CoCreate-app/CoCreate-sandbox/commit/58bd002f655151b3a278e07ce23f534ac3e809f8))
+
 # [1.3.0](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.2.6...v1.3.0) (2023-04-24)
 
 
