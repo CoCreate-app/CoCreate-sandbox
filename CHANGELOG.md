@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.2.6...v1.3.0) (2023-04-24)
+
+
+### Features
+
+* added pwa manifest ([92088c0](https://github.com/CoCreate-app/CoCreate-sandbox/commit/92088c06706c4ea2e85cbb22adba2a1bf7c64bd2))
+
 ## [1.2.6](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.2.5...v1.2.6) (2023-04-11)
 
 
