@@ -1,3 +1,10 @@
+## [1.3.6](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.3.5...v1.3.6) (2023-05-01)
+
+
+### Bug Fixes
+
+* update manifest.json to manifest.webmanifest ([4799683](https://github.com/CoCreate-app/CoCreate-sandbox/commit/4799683f22cc26c081fbb8a3e121b4fdafb07c99))
+
 ## [1.3.5](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.3.4...v1.3.5) (2023-05-01)
 
 
