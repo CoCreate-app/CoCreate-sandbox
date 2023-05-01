@@ -1,3 +1,10 @@
+## [1.3.5](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.3.4...v1.3.5) (2023-05-01)
+
+
+### Bug Fixes
+
+* replace fontawesome with svg ([c56fc99](https://github.com/CoCreate-app/CoCreate-sandbox/commit/c56fc99b09928428f490d287266734e1fbef33b8))
+
 ## [1.3.4](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.3.3...v1.3.4) (2023-04-30)
 
 
