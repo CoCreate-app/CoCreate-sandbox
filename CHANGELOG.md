@@ -1,3 +1,11 @@
+## [1.3.8](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.3.7...v1.3.8) (2023-05-19)
+
+
+### Bug Fixes
+
+* apikey renamed to key ([0ea23d1](https://github.com/CoCreate-app/CoCreate-sandbox/commit/0ea23d11f3882f6dc18358969f16fb75c587f485))
+* update packages to latest version. This commit updates various packages in the dependencies section of the package.json file to their latest published versions, thereby fixing multiple bugs and improving overall performance. ([642d131](https://github.com/CoCreate-app/CoCreate-sandbox/commit/642d13130f3af05940a2bee75a10cca7fd27a1d5))
+
 ## [1.3.7](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.3.6...v1.3.7) (2023-05-06)
 
 
