@@ -1,49 +1,118 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link
+            rel="icon"
+            href="https://cdn.cocreate.app/favicon.ico"
+            type="image/ico"
+            sizes="16x16" />
+        <title>Sandbox | CoCreate</title>
 
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="icon" href="https://cdn.cocreate.app/favicon.ico" type="image/ico" sizes="16x16">
-    <title>Sandbox | CoCreate</title>
-  
-    <!-- CoCreateCSS -->
-    <link rel="stylesheet" href="https://cdn.cocreate.app/latest/CoCreate.min.css" type="text/css"/>
+        <!-- CoCreateCSS -->
+        <link
+            rel="stylesheet"
+            href="https://cdn.cocreate.app/latest/CoCreate.min.css"
+            type="text/css" />
 
-       
-    
-    <link rel=stylesheet href="https://codemirror.net/lib/codemirror.css"  async defer>
-    <link rel="stylesheet" href="https://cdn.cocreate.app/latest/CoCreate.min.css" type="text/css"/>
+        <link
+            rel="stylesheet"
+            href="https://codemirror.net/lib/codemirror.css"
+            async
+            defer />
+        <link
+            rel="stylesheet"
+            href="https://cdn.cocreate.app/latest/CoCreate.min.css"
+            type="text/css" />
 
-    <link rel="manifest" href="/manifest.webmanifest">
-  </head>
+        <link rel="manifest" href="/manifest.webmanifest" />
+    </head>
 
-  <body>
-						<!-- SandBox -->
-						<div class="display:flex flex-direction:column position:relative overflow:hidden card border-radius:2px width:auto height:600px margin-top:20px" id="input-playground">
-							<div id="input-demo-code" resizable class="position:relative height:50%">
-								<textarea type="code" lang="html" collection="testing" document_id="" name="input-demo" save="false" id="input-demo" nput-target=".demopreview" input-attribute="value" input-events="input, onload"  class="height:100% width:100% outline:none border:none resize:none padding:5px"></textarea>
-								<div resize="bottom" class="background:lightgrey"></div>
-							</div>
-		
-							<div id="input-demo-preview" class="position:relative overflow:auto background-color:white">
-								<div class="demopreview padding:20px"></div>
-							</div>
-							
-							<div class="font-size:20px position:absolute top:10px right:10px opacity:0.6">
-								<a class="margin-right:10px" id="input-eye" show="#input-eye-slash" hide="#input-eye, #input-demo-preview" toggle="code-height" toggle-target="#input-demo-code"><i class="height:18px fill:#505050" src="/assets/svg/eye.svg"></i></a>
-								<a class="margin-right:10px" hidden id="input-eye-slash" show="#input-eye, #input-demo-preview" hide="#input-eye-slash" toggle="code-height" toggle-target="#input-demo-code"><i class="height:20px fill:#505050" src="/assets/svg/eye-slash.svg"></i></a>
-								<a class="margin-right:10px" id="input-code" show="#input-code-slash" hide="#input-code, #input-demo-code"><i class="height:20px fill:#505050" src="/assets/svg/code.svg"></i></a>
-								<a class="margin-right:10px" hidden id="input-code-slash" show="#input-code, #input-demo-code" hide="#input-code-slash"><i class="display:flex height:18px fill:#505050" src="/assets/svg/code.svg"></i></a>
-								<a class="margin-right:5px" fullscreen fullscreen-target="#input-playground"></a>
-							</div>
-		
-						</div>
-						<!-- End SandBox -->
+    <body>
+        <!-- SandBox -->
+        <div
+            class="display:flex flex-direction:column position:relative overflow:hidden card border-radius:2px width:auto height:600px margin-top:20px"
+            id="input-playground">
+            <div
+                id="input-demo-code"
+                resizable
+                class="position:relative height:50%">
+                <textarea
+                    type="code"
+                    lang="html"
+                    collection="testing"
+                    document_id=""
+                    name="input-demo"
+                    save="false"
+                    id="input-demo"
+                    nput-target=".demopreview"
+                    input-attribute="value"
+                    input-events="input, onload"
+                    class="height:100% width:100% outline:none border:none resize:none padding:5px"></textarea>
+                <div resize="bottom" class="background:lightgrey"></div>
+            </div>
 
-	  <script src="/apikey.js"></script>
-    <script src="https://cdn.cocreate.app/latest/CoCreate.min.js" ></script>
+            <div
+                id="input-demo-preview"
+                class="position:relative overflow:auto background-color:white">
+                <div class="demopreview padding:20px"></div>
+            </div>
 
-  </body>
-</html> 
+            <div
+                class="font-size:20px position:absolute top:10px right:10px opacity:0.6">
+                <a
+                    class="margin-right:10px"
+                    id="input-eye"
+                    show="#input-eye-slash"
+                    hide="#input-eye, #input-demo-preview"
+                    toggle="code-height"
+                    toggle-target="#input-demo-code"
+                    ><i
+                        class="height:18px fill:#505050"
+                        src="/assets/svg/eye.svg"></i
+                ></a>
+                <a
+                    class="margin-right:10px"
+                    hidden
+                    id="input-eye-slash"
+                    show="#input-eye, #input-demo-preview"
+                    hide="#input-eye-slash"
+                    toggle="code-height"
+                    toggle-target="#input-demo-code"
+                    ><i
+                        class="height:20px fill:#505050"
+                        src="/assets/svg/eye-slash.svg"></i
+                ></a>
+                <a
+                    class="margin-right:10px"
+                    id="input-code"
+                    show="#input-code-slash"
+                    hide="#input-code, #input-demo-code"
+                    ><i
+                        class="height:20px fill:#505050"
+                        src="/assets/svg/code.svg"></i
+                ></a>
+                <a
+                    class="margin-right:10px"
+                    hidden
+                    id="input-code-slash"
+                    show="#input-code, #input-demo-code"
+                    hide="#input-code-slash"
+                    ><i
+                        class="display:flex height:18px fill:#505050"
+                        src="/assets/svg/code.svg"></i
+                ></a>
+                <a
+                    class="margin-right:5px"
+                    fullscreen
+                    fullscreen-target="#input-playground"></a>
+            </div>
+        </div>
+        <!-- End SandBox -->
+
+        <script src="/apikey.js"></script>
+        <script src="https://cdn.cocreate.app/latest/CoCreate.min.js"></script>
+    </body>
+</html>
