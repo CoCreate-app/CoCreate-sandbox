@@ -1,3 +1,10 @@
+## [1.3.12](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.3.11...v1.3.12) (2023-06-04)
+
+
+### Bug Fixes
+
+* Refactor CoCreate.config.js to remove hard-coded credentials ([e2528bf](https://github.com/CoCreate-app/CoCreate-sandbox/commit/e2528bf073f4b68ed33f5ec1d79ec60e9e7ee4f1))
+
 ## [1.3.11](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.3.10...v1.3.11) (2023-06-04)
 
 
