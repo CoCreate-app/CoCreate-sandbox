@@ -1,3 +1,11 @@
+## [1.3.11](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.3.10...v1.3.11) (2023-06-04)
+
+
+### Bug Fixes
+
+* replaced secert GITHUB_TOKEN with GITHUB ([c4dbafd](https://github.com/CoCreate-app/CoCreate-sandbox/commit/c4dbafd62bb87125d0457dd21d6b28dece120e89))
+* Update dependencies versions for [@cocreate](https://github.com/cocreate) libraries ([0683322](https://github.com/CoCreate-app/CoCreate-sandbox/commit/0683322f9e3276fc8b72d478530ce0a79666c60a))
+
 ## [1.3.10](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.3.9...v1.3.10) (2023-06-04)
 
 
