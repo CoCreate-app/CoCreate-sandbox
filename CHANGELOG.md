@@ -1,3 +1,10 @@
+## [1.3.10](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.3.9...v1.3.10) (2023-06-04)
+
+
+### Bug Fixes
+
+* **semantic-release:** worklow error solved by running node version 14 ([d0eda04](https://github.com/CoCreate-app/CoCreate-sandbox/commit/d0eda04d6e750fa3e3f11faf8de7f609d84ed650))
+
 ## [1.3.9](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.3.8...v1.3.9) (2023-05-21)
 
 
