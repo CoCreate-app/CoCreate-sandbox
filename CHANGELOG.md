@@ -1,3 +1,10 @@
+## [1.3.24](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.3.23...v1.3.24) (2023-06-11)
+
+
+### Bug Fixes
+
+* Update dependencies versions for [@cocreate](https://github.com/cocreate) libraries ([3b12c62](https://github.com/CoCreate-app/CoCreate-sandbox/commit/3b12c6203d66c8b5d62931c38e9c50578ae4bedc))
+
 ## [1.3.23](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.3.22...v1.3.23) (2023-06-11)
 
 
