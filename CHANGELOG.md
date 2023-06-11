@@ -1,3 +1,10 @@
+## [1.3.17](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.3.16...v1.3.17) (2023-06-11)
+
+
+### Bug Fixes
+
+* postintall error ([1b11076](https://github.com/CoCreate-app/CoCreate-sandbox/commit/1b110765e97d85a03acac4d76af613938a2a06bf))
+
 ## [1.3.16](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.3.15...v1.3.16) (2023-06-11)
 
 
