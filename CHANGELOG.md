@@ -1,3 +1,10 @@
+## [1.3.14](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.3.13...v1.3.14) (2023-06-11)
+
+
+### Bug Fixes
+
+* renamed hosts to host. the value can be a string or an array of strings ([e6bdb5d](https://github.com/CoCreate-app/CoCreate-sandbox/commit/e6bdb5d8845609015bc0415ec74a0e7cb81d4e80))
+
 ## [1.3.13](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.3.12...v1.3.13) (2023-06-10)
 
 
