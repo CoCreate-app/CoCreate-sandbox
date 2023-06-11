@@ -1,3 +1,10 @@
+## [1.3.22](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.3.21...v1.3.22) (2023-06-11)
+
+
+### Bug Fixes
+
+* testing workflow ([1fbf6bd](https://github.com/CoCreate-app/CoCreate-sandbox/commit/1fbf6bdd797fc0559d1df493c841d6558e500352))
+
 ## [1.3.21](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.3.20...v1.3.21) (2023-06-11)
 
 
