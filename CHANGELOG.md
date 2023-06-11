@@ -1,3 +1,10 @@
+## [1.3.16](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.3.15...v1.3.16) (2023-06-11)
+
+
+### Bug Fixes
+
+* @cocreate/cli moved to dependencies ([87cbc66](https://github.com/CoCreate-app/CoCreate-sandbox/commit/87cbc664735123b8ffe3ad7b8bba6ca67daf1532))
+
 ## [1.3.15](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.3.14...v1.3.15) (2023-06-11)
 
 
