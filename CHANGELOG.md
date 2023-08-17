@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.4.0...v1.5.0) (2023-08-17)
+
+
+### Features
+
+* bump cocreate dependencies for the latest updates and features ([c76ce17](https://github.com/CoCreate-app/CoCreate-sandbox/commit/c76ce176ebf8c1958bc008cb26999d3f627723e6))
+
 # [1.4.0](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.3.25...v1.4.0) (2023-08-16)
 
 
