@@ -1,3 +1,12 @@
+## [1.5.1](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.5.0...v1.5.1) (2023-08-21)
+
+
+### Bug Fixes
+
+* /dist/CoCreate.js updated to https://CoCreate.app/dist/CoCreate.js ([5344e10](https://github.com/CoCreate-app/CoCreate-sandbox/commit/5344e10317d30ed9209ad729a487e4c5a39a124a))
+* replace cdn with /dist ([5067095](https://github.com/CoCreate-app/CoCreate-sandbox/commit/5067095ddba8b9571b1ba39e177fe305a84adac0))
+* update file uploader ([058a9bd](https://github.com/CoCreate-app/CoCreate-sandbox/commit/058a9bd1753a98b97674d00af060d4775c4867ec))
+
 # [1.5.0](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.4.0...v1.5.0) (2023-08-17)
 
 
