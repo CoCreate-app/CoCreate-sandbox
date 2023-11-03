@@ -1,3 +1,10 @@
+## [1.6.3](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.6.2...v1.6.3) (2023-11-03)
+
+
+### Bug Fixes
+
+* favicon.ico path ([14ce488](https://github.com/CoCreate-app/CoCreate-sandbox/commit/14ce4884435589026a428451b27c495ca9734b31))
+
 ## [1.6.2](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.6.1...v1.6.2) (2023-09-18)
 
 
