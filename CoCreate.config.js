@@ -12,8 +12,7 @@ module.exports = {
                 "pathname": "/docs/sandbox/index.html",
                 "src": "{{./docs/index.html}}",
                 "host": [
-                    "*",
-                    "general.cocreate.app"
+                    "*"
                 ],
                 "directory": "sandbox",
                 "content-type": "{{content-type}}",
