@@ -1,3 +1,11 @@
+## [1.6.4](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.6.3...v1.6.4) (2023-11-09)
+
+
+### Bug Fixes
+
+* meta name typo ([82074dd](https://github.com/CoCreate-app/CoCreate-sandbox/commit/82074ddfc8b68bb935dbf73f1f636b045e8174f8))
+* update host ([efec5c5](https://github.com/CoCreate-app/CoCreate-sandbox/commit/efec5c5cb05194f7e20f3e590e4920d825ad8047))
+
 ## [1.6.3](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.6.2...v1.6.3) (2023-11-03)
 
 
