@@ -1,3 +1,10 @@
+# [1.9.0](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.8.0...v1.9.0) (2023-11-25)
+
+
+### Features
+
+* upgrade dependencies for latest features and fixes ([ae27a6c](https://github.com/CoCreate-app/CoCreate-sandbox/commit/ae27a6ce1fb19497c5a972484e2604384b5156f7))
+
 # [1.8.0](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.7.0...v1.8.0) (2023-11-25)
 
 
