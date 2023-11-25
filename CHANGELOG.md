@@ -1,3 +1,15 @@
+# [1.8.0](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.7.0...v1.8.0) (2023-11-25)
+
+
+### Bug Fixes
+
+* update nav, edit button and css path ([5330a79](https://github.com/CoCreate-app/CoCreate-sandbox/commit/5330a79edcbcbf747b7a4c19c01e6948d05d342c))
+
+
+### Features
+
+* upgrade dependencies for latest features and fixes ([a5eb1b6](https://github.com/CoCreate-app/CoCreate-sandbox/commit/a5eb1b621fa5f687148adebcf33d892dfc2d7f0b))
+
 # [1.7.0](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.6.5...v1.7.0) (2023-11-19)
 
 
