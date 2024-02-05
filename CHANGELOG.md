@@ -1,3 +1,10 @@
+## [1.9.1](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.9.0...v1.9.1) (2024-02-05)
+
+
+### Bug Fixes
+
+* Removed https://cdn.cocreate.app/latest/CoCreate.min.css ([19c276a](https://github.com/CoCreate-app/CoCreate-sandbox/commit/19c276ae71dccf9ab915fe2c402fb7161560223b))
+
 # [1.9.0](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.8.0...v1.9.0) (2023-11-25)
 
 
