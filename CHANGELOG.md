@@ -1,3 +1,11 @@
+## [1.9.3](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.9.2...v1.9.3) (2024-06-12)
+
+
+### Bug Fixes
+
+* bump cocreate dependencies ([ff5f1bb](https://github.com/CoCreate-app/CoCreate-sandbox/commit/ff5f1bbf3fd0b49db6627f054ec8467e9c541a86))
+* svg icon class ([677a8ed](https://github.com/CoCreate-app/CoCreate-sandbox/commit/677a8ed19f09c579c9120d59e3417afcba8ecaab))
+
 ## [1.9.2](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.9.1...v1.9.2) (2024-04-29)
 
 
