@@ -1,3 +1,16 @@
+# [1.10.0](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.9.3...v1.10.0) (2024-11-04)
+
+
+### Bug Fixes
+
+* pretier.config.js and file formating ([07f70cc](https://github.com/CoCreate-app/CoCreate-sandbox/commit/07f70cc191023388c209022ff56063da715703b0))
+
+
+### Features
+
+* add prettier.config.js and format files ([c62c548](https://github.com/CoCreate-app/CoCreate-sandbox/commit/c62c5480ca2a5dcc760e988e3649694f8f4b5305))
+* add prettier.config.js and format files ([c73d02d](https://github.com/CoCreate-app/CoCreate-sandbox/commit/c73d02df156d33f34c0355e8e123d5a34cc57f50))
+
 ## [1.9.3](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.9.2...v1.9.3) (2024-06-12)
 
 
