@@ -1,3 +1,13 @@
+## [1.10.1](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.10.0...v1.10.1) (2025-04-30)
+
+
+### Bug Fixes
+
+* added css-loader ([487ecb4](https://github.com/CoCreate-app/CoCreate-sandbox/commit/487ecb457af85c0fef95fd3a2d6403c5a87d7bfd))
+* update query attributes ([487678d](https://github.com/CoCreate-app/CoCreate-sandbox/commit/487678dc80932a82c602c2bcd5b28dd2c49db52b))
+* updated cocreate modules versions ([67f834b](https://github.com/CoCreate-app/CoCreate-sandbox/commit/67f834b21d6e264eff480e7af703326a549bfe8d))
+* webpack.config and devdependencies ([fd89688](https://github.com/CoCreate-app/CoCreate-sandbox/commit/fd896883668c2023e271c96f029f9d7ab096ca12))
+
 # [1.10.0](https://github.com/CoCreate-app/CoCreate-sandbox/compare/v1.9.3...v1.10.0) (2024-11-04)
 
 
